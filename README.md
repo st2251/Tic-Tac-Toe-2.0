@@ -15,7 +15,11 @@ To add this project to android studio.
 - Paste url to repository i.e https://github.com/st2251/Tic-Tac-Toe-2.0.git
 - Click on clone.
 
+Below are some snapshots of the app for reference--->
 
-
-<img src="https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot1.png" align="left" height="48" width="48" >
+<img src="https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot1.png" align="left" height="800px" width="400px" >
+<img src="https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot2.png" align="left" height="800px" width="400px" >
+<img src="https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot3.png" align="left" height="800px" width="400px" >
+<img src="https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot4.png" align="left" height="800px" width="400px" >
+<img src="https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot5.png" align="left" height="800px" width="400px" >
 

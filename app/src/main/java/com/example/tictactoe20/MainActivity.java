@@ -22,6 +22,8 @@ import android.widget.ArrayAdapter;
 
 import android.os.Bundle;
 
+import com.airbnb.lottie.LottieAnimationView;
+
 public class MainActivity extends AppCompatActivity {
 
     public EditText plyr1;

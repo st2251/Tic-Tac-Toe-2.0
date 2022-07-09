@@ -170,7 +170,9 @@
         android:background="@drawable/round"
         android:onClick="startgame"
         android:text="Let's Play..!"
-        android:textColor="@color/white"/>
+        android:textColor="@color/white" />
+
+
 
 
 </RelativeLayout>

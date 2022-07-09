@@ -17,6 +17,5 @@ To add this project to android studio.
 
 
 
-![image](https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot1.png)
-
+<img src="https://github.com/st2251/Tic-Tac-Toe-2.0/blob/master/app/src/main/res/drawable/shot1.png" align="left" height="48" width="48" >
 
